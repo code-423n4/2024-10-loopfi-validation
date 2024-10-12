@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "debo",
+  "risk": "3",
+  "title": "Flashlender Allows Unauthorized Access to flashLoan and creditFlashLoan Functions",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/9"
+}

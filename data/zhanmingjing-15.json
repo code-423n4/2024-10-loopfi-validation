@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "zhanmingjing",
+  "risk": "3",
+  "title": "Locking.sol#withdraw()  should be able to withdraw deposits that are not-Cooldown",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/15"
+}

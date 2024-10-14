@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "debo",
+  "risk": "2",
+  "title": "CDPVault has getRewards function that is unchecked transfer",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/18"
+}

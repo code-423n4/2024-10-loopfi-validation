@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "pro_king",
+  "risk": "2",
+  "title": "Incorrect Token Balance Accounting Due to Fee On Transfer",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/22"
+}

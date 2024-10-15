@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "Bauchibred",
+  "risk": "3",
+  "title": "No slippage applied when Withdrawing collateral from the vault and `dst != collateralToken`",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/31"
+}

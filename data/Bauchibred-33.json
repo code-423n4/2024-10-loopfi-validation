@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "Bauchibred",
+  "risk": "3",
+  "title": "Some residual recipients would have their residues stuck in `SwapAction.sol` after swaps",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/33"
+}

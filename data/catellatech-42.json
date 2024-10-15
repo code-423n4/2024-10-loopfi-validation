@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "catellatech",
+  "risk": "2",
+  "title": "Lack of Slippage Protection Mechanism in `withdraw` and `redeem` Functions in StakingLPEth.sol",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/42"
+}

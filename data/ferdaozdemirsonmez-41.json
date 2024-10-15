@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "ferdaozdemirsonmez",
+  "risk": "2",
+  "title": "Unchecked Return Values from Virtual Function _updateRewardIndex in RewardManagerAbstract.sol",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/41"
+}

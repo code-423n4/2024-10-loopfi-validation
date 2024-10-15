@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "ferdaozdemirsonmez",
+  "risk": "2",
+  "title": "Potential I/O Flow Issue in Rate Calculation in GaugeV3.sol",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/37"
+}

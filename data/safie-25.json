@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "safie",
+  "risk": "3",
+  "title": "Donation attack vulnerability in `StakingLPEth` Contract",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/25"
+}

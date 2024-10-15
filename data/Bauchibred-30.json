@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": "`Locking.sol`: Users are unfairly DOS'd from their assets after initiating cooldown early",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/30"
+}

@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "ferdaozdemirsonmez",
+  "risk": "2",
+  "title": "Potential Integer Overflow in calcQuotaRevenueChange Function at QuotasLogic.sol",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/54"
+}

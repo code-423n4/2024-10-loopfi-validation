@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "safie",
+  "risk": "3",
+  "title": "Vulnerability in reward distribution logic lead to incorrect reward calculations in `RewardManagerAbstract.sol`",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/49"
+}

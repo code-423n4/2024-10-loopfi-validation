@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "ferdaozdemirsonmez",
+  "risk": "3",
+  "title": "Potential Arbitrary Jump in Delegate Call in PositionActionPendle.sol",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/56"
+}

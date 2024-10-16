@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "Auditor2947",
+  "risk": "2",
+  "title": "ERC20 Transfers Lack Approval Step in ` _moveFunds`",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/45"
+}

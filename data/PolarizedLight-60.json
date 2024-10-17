@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "PolarizedLight",
+  "risk": "2",
+  "title": "Lack of Slippage Protection in CDPVault's Deposit and Withdrawal Function",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/60"
+}

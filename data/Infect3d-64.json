@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "Infect3d",
+  "risk": "3",
+  "title": "`_distributeRewardsPrivate` wrongly set `unserIndex = 1` on first interaction, leading to erroneous reward distribution",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/64"
+}

@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "Evo",
+  "risk": "2",
+  "title": "[M-06] Lack of balance decrease check in RewardManager allows potential reward manipulation",
+  "issueId": 91,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/91"
+}

@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "Mrxstrange",
+  "risk": "2",
+  "title": "Front-running Vulnerability in `_updateBaseInterest()` Function",
+  "issueId": 76,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/76"
+}

@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "0xpetern",
+  "risk": "3",
+  "title": "Lack of access control \"FUNDS_ADMINISTRATOR_ROLE\" in _moveFunds function",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/82"
+}

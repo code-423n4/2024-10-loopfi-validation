@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "PolarizedLight",
+  "risk": "2",
+  "title": "ff-by-One Timestamp Vulnerability in Unstake Function",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/73"
+}

@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "rabTAI",
+  "risk": "2",
+  "title": "Mismatch in Scaling of deltaCollateral in modifyCollateralAndDebt() Function",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/85"
+}

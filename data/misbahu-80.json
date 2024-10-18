@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "misbahu",
+  "risk": "3",
+  "title": "Users can manipulate their position in a paused vault",
+  "issueId": 80,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/80"
+}

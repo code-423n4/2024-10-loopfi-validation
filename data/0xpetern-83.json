@@ -1,0 +1,8 @@
+{
+  "contest": 456,
+  "handle": "0xpetern",
+  "risk": "3",
+  "title": "Uninitialized Mapping Access Vulnerability Allows Exploitation of Reward Distribution Logic",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/83"
+}

@@ -4,5 +4,7 @@
   "risk": "2",
   "title": " When adding new quoted tokens, worse off rates for Loopfi is always used for all types of tokens",
   "issueId": 34,
-  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/34"
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/34",
+  "validatedIssueId": 20,
+  "validatedIssueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/20"
 }

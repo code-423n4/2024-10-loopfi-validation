@@ -4,5 +4,7 @@
   "risk": "2",
   "title": "Eth may be transferred from treasury contract",
   "issueId": 5,
-  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/5"
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/5",
+  "validatedIssueId": 33,
+  "validatedIssueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/33"
 }

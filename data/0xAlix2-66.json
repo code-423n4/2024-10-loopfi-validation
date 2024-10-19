@@ -4,5 +4,7 @@
   "risk": "3",
   "title": "Liquidity pool is not adjusting the interest rate on healthy repayment profit, which results in incorrect rates",
   "issueId": 66,
-  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/66"
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/66",
+  "validatedIssueId": 19,
+  "validatedIssueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/19"
 }

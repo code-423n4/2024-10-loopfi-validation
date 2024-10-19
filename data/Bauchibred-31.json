@@ -4,5 +4,7 @@
   "risk": "3",
   "title": "No slippage applied when Withdrawing collateral from the vault and `dst != collateralToken`",
   "issueId": 31,
-  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/31"
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/31",
+  "validatedIssueId": 31,
+  "validatedIssueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/31"
 }

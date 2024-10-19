@@ -1,0 +1,9 @@
+issue,title,validator comment,status,size,Best
+validation-8,QA Report,,Satisfactory,9,
+validation-19,QA Report,no insight,Unsatisfactory,20,
+validation-79,Gas Optimizations,no gas pot,Unsatisfactory,23,
+validation-20,Gas Optimizations,no gas pot,Unsatisfactory,23,
+validation-52,Gas Optimizations,no gas pot,Unsatisfactory,28,
+validation-78,QA Report,no insight,Unsatisfactory,35,
+validation-36,QA Report,,Satisfactory,333,
+validation-75,QA Report,"valids are covered in bot report, others are either invalid or providing bad mitigations",Unsatisfactory,816,

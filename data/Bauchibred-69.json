@@ -4,5 +4,7 @@
   "risk": "3",
   "title": "Some residual recipients would now have their residues stuck in `SwapAction` after swap",
   "issueId": 69,
-  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/69"
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/69",
+  "validatedIssueId": 18,
+  "validatedIssueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/18"
 }

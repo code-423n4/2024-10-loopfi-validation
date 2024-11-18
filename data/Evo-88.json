@@ -4,5 +4,7 @@
   "risk": "2",
   "title": "Issue is not fixed: Token array not sorted in PoolAction.transferAndJoin",
   "issueId": 88,
-  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/88"
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/88",
+  "validatedIssueId": 37,
+  "validatedIssueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/37"
 }

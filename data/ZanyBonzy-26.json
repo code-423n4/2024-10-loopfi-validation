@@ -4,5 +4,7 @@
   "risk": "2",
   "title": "Change in cooldown incorrectly affects users withdrawal wait time.",
   "issueId": 26,
-  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/26"
+  "issueUrl": "https://github.com/code-423n4/2024-10-loopfi-validation/issues/26",
+  "validatedIssueId": 38,
+  "validatedIssueUrl": "https://github.com/code-423n4/2024-10-loopfi-findings/issues/38"
 }
